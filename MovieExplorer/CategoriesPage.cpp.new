@@ -28,7 +28,7 @@ void CCategoriesPage::ApplyChanges()
 
 	RPropertyPage::ApplyChanges();
 }
-
+//i need to translate who can hellp????
 void CCategoriesPage::OnCommand(WORD id, WORD notifyCode, HWND hWndControl)
 {
 	DBCATEGORY *pSelectedCat = NULL;
